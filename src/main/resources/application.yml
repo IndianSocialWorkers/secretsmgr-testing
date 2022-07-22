@@ -1,1 +1,4 @@
 spring.config.import: optional:aws-secretsmanager:test/secretsmanager
+
+server:
+  port: 80
